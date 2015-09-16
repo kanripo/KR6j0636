@@ -1,0 +1,6 @@
+001-0920c00	TKD 34-0084a	buddhist/K-koreana/34-tif/0000-0099/34_0084_A.TIF
+001-0921a06	TKD 34-0084b	buddhist/K-koreana/34-tif/0000-0099/34_0084_B.TIF
+001-0921a25	TKD 34-0084c	buddhist/K-koreana/34-tif/0000-0099/34_0084_C.TIF
+001-0921b15	TKD 34-0085a	buddhist/K-koreana/34-tif/0000-0099/34_0085_A.TIF
+001-0921a00	T 001-0921a	buddhist/T-taisho/T21/09/T21-0921.png
+001-0921b00	T 001-0921b	buddhist/T-taisho/T21/09/T21-0921.png
