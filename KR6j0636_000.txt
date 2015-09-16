@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說如意寶總持王經
+#+DATE: 2015-08-30 20:36:51.246755
+#+PROPERTY: JUAN 0
