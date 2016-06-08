@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:51.463242
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:41
 #+TITLE: 佛說如意寶總持王經
 #+PROPERTY: CBETA_ID T21n1404
 #+PROPERTY: ID KR6j0636
